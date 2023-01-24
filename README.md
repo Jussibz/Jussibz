@@ -7,6 +7,3 @@
 - 📫 How to reach me:
  Telegram: https:/t.me/Jussibz
  Whatsapp: +233(0270257754)
-- 😄 
-- ⚡ 
--->
