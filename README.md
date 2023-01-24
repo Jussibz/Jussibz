@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Jussibz/Jussibz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there
 
 - 🌱 I’m currently learning java and Visual Basic.
       I'm looking to add Python as another tool in my toolbox.
