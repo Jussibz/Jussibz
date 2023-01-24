@@ -1,5 +1,5 @@
-### Hi there
-
+### Hi there, I'm Juliana
+    
 - 🌱 I’m currently learning java and Visual Basic.
       I'm looking to add Python as another tool in my toolbox.
 - 👯 I’m looking to collaborate on open source projects.
